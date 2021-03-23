@@ -2,3 +2,5 @@ Hello, world!
 
 Здесь был петя!
 Здесь был Вася!
+
+Lucky was here
